@@ -1,0 +1,18 @@
+# direnv
+.envrc
+.direnv
+
+# Terraform
+*.tfstate
+*.tfstate.backup
+.terraform
+
+# Yum
+*.rpmnew
+*.rpmsave
+
+# Apex
+*.pyc
+.tox
+*.egg-info
+lib/
