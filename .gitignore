@@ -16,3 +16,6 @@
 .tox
 *.egg-info
 lib/
+
+# Events
+events/pvtest_event.json
