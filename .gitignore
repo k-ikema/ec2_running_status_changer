@@ -19,3 +19,6 @@ lib/
 
 # Events
 events/pvtest_event.json
+
+# Makefile
+Makefile
